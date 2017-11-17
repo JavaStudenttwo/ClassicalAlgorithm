@@ -23,7 +23,7 @@ void callback(int *index,int i) {
 }
 
 
-int main() {
+int main_3() {
 
 	int index[4] = { 0,0,0,0 };
 	int i = 0;
