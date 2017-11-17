@@ -110,8 +110,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EightQueens.cpp" />
+    <ClCompile Include="FourQueens_4.cpp" />
+    <ClCompile Include="FourQueens_1.cpp" />
+    <ClCompile Include="FourQueens_2.cpp" />
+    <ClCompile Include="FourQueens_2_test.cpp" />
+    <ClCompile Include="FourQueens_3.cpp" />
     <ClCompile Include="test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="assist.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
